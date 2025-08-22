@@ -19,6 +19,7 @@ Results
 
 +------------+-------+-------+
 
-
+These are segmented images of Leukemia dataset
 ![Sample Image](sample.png)
+![Sample Image](sample2.png)
 
